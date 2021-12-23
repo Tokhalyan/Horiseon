@@ -8,7 +8,7 @@ A website that offers online marketing services.
 * CSS
 
 ## Website 
-https://tokhalyan.github.io/horiseon/
+https://tokhalyan.github.io/Horiseon/
 
 ## Issues found on initial view 
 * No proper <title> element
