@@ -8,7 +8,7 @@ A website that offers online marketing services.
 * CSS
 
 ## Website 
-https://tokhalyan.github.io/Horiseon/
+https://tokhalyan.github.io/horiseon/
 
 ## Issues found on initial view 
 * No proper <title> element
@@ -16,6 +16,7 @@ https://tokhalyan.github.io/Horiseon/
 * Search engine Optimization link is not moving the user to that part of the page
 * No alt attributes for the images
 * CSS code needs to be consolidated
+* The logo is not directing to the home page
 
 ## HTML and CSS Change Log
 * Proper <title> added
@@ -23,6 +24,7 @@ https://tokhalyan.github.io/Horiseon/
 * Fixed anchor elements to make site navigation with links work properly
 * Changed all possible elements with proper ones to make the code semantic
 * Made CSS shorter and well readable
+* anchor element added to the logo, directing to the home page
 
 ## Contribution
 Made with &#10084; by Shahen Tokhalyan
